@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DockerBot/.vs
+/DockerBot/DockerBot/bin/Debug/netcoreapp3.1
+/DockerBot/DockerBot/DeploymentTemplates
